@@ -2,7 +2,7 @@ JaysonChain
 ===========
 **Authors: Simon Yuan, Fynn Faber, Florian Spychiger, Timofey Derkovsky, Henry Trinh, Kevin De Keyser**
 
-
+This ReadMe is outdated. New code is in MinimalOnChainCode.
 
 First of all the final version is in the master branch!
 
